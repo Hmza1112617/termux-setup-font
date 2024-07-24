@@ -4,18 +4,12 @@ This repository contains a simple script to change the font in Termux.
 
 ## Installation and Usage
 
-1. Clone the repository:
+1. Clone the repository and execute the following commands:
     ```sh
-    git clone https://github.com/Hmza1112617/termux-setup-font.git
-    cd termux-setup-font
+    git clone https://github.com/Hmza1112617/termux-setup-font.git && cd termux-setup-font && cp FontN.ttf ~/.termux/font.ttf && termux-reload-settings
     ```
 
-2. Copy the font to the Termux fonts directory:
-    ```sh
-    cp FontN.ttf ~/.termux/font.ttf
-    ```
-
-3. Reload Termux settings:
+2. Reload Termux settings:
     ```sh
     termux-reload-settings
     ```
@@ -37,18 +31,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## التثبيت والاستخدام
 
-1. استنساخ المستودع:
+1. استنساخ المستودع وتنفيذ الأوامر التالية:
     ```sh
-    git clone https://github.com/Hmza1112617/termux-setup-font.git
-    cd termux-setup-font
+    git clone https://github.com/Hmza1112617/termux-setup-font.git && cd termux-setup-font && cp FontN.ttf ~/.termux/font.ttf && termux-reload-settings
     ```
 
-2. نسخ الخط إلى دليل الخطوط في Termux:
-    ```sh
-    cp FontN.ttf ~/.termux/font.ttf
-    ```
-
-3. إعادة تحميل إعدادات Termux:
+2. إعادة تحميل إعدادات Termux:
     ```sh
     termux-reload-settings
     ```
