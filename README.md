@@ -15,9 +15,7 @@ This repository contains a simple script to change the font in Termux.
     ```
 
 ## Notes
-
-- Make sure you replace `FontN.ttf` with the actual font file you want to use.
-- The `.termux` directory is hidden, so ensure you have the correct path.
+None.
 
 ## License
 
@@ -42,9 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     ```
 
 ## ملاحظات
-
-- تأكد من استبدال `FontN.ttf` بملف الخط الفعلي الذي تريد استخدامه.
-- الدليل `.termux` مخفي، لذا تأكد من أنك تستخدم المسار الصحيح.
+ماكو.
 
 ## الترخيص
 
